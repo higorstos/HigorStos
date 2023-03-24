@@ -2,7 +2,9 @@
 
 - ⚡ 18y
 - ✏️ Estudo Ciência da Computação na São Judas Unimonte
-- 🛠️ Atualmente trabalho como Técnico de Interneta
+- 🛠️ Atualmente trabalho como Técnico de Internet
+
+##
 
 <div>
 
