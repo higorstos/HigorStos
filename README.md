@@ -1,7 +1,7 @@
 # Hello 👋, I'm Higor Santos 
 - ⚡ 18y
-- ✏️ Estudo Ciência da Computação na São Judas Unimonte
-- 💻 Também estudo Desenvolvedor Java Full-Stack pela EBAC
+- ✏️ Estudo Ciência da Computação na Universade São Judas Tadeu
+- 💻 Também faço o curso Desenvolvedor Java Full-Stack (EBAC)
 - 🛠️ Atualmente trabalho como Técnico de Telecomunicações
 #
 
