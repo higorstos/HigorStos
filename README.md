@@ -26,20 +26,21 @@ app.listen(3000, () =>{
 ## **Linguagens e Ferramentas:**  
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/javascript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/angularjs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/html5-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/css3-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/java-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/csharp-original.svg" width="50" height="40" align="center"/>
+  <img src=https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/php-original.svg"" width="50" height="40" align="center"/>
 
 </div><br>
 
 <a href="https://github.com/HigorStos">
   <img height='200em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStoss&layout=compact&langs_count=16&theme=dracula">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
 </a>
 
 ## **Vamos nos Conectar:**
