@@ -37,8 +37,8 @@ app.listen(3000, () =>{
 </div><br>
 
 <a href="https://github.com/HigorStos">
-  <img height='100em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula">
-  <img height='100em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
+  <img height='150em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula">
+  <img height='150em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
 </a>
 
 ## **Vamos nos Conectar:**
