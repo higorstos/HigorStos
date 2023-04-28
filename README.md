@@ -3,7 +3,7 @@
 Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img align="right" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
@@ -23,7 +23,7 @@ app.listen(3000, () =>{
 
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Linguagens e Frameworks:**  
 
 <div style="display: inline_block"><br>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/javascript-original.svg" width="50" height="40" align="center"/>
@@ -41,7 +41,7 @@ app.listen(3000, () =>{
   <img height='165em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
 </a>
 
-## **Vamos nos Conectar:**
+## **Redes Sociais:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
@@ -50,7 +50,7 @@ app.listen(3000, () =>{
   <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Outlook">
+   <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
 </p>
 <br>
