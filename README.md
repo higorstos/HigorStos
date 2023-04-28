@@ -38,8 +38,8 @@ app.listen(3000, () =>{
 </div><br>
 
 <a href="https://github.com/HigorStos">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanogs&show_icons=true&theme=dracula">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Vamos nos Conectar:**
