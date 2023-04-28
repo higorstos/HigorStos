@@ -5,7 +5,7 @@ Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixo
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)"/>
 
 ```javascript
 const express = require('express')
@@ -28,8 +28,8 @@ app.listen(3000, () =>{
 <div style="display: inline_block"><br>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/javascript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/angularjs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/java-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/csharp-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/php-original.svg" width="50" height="40" align="center"/>
