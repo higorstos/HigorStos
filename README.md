@@ -39,7 +39,7 @@ app.listen(3000, () =>{
 
 <a href="https://github.com/HigorStos">
   <img height='200em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&theme=dracula&hide_langs_below=1" />
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStoss&layout=compact&langs_count=16&theme=dracula">
 </a>
 
 ## **Vamos nos Conectar:**
