@@ -1,9 +1,8 @@
 ### Olá! Me chamo Higor! 👋
 
-Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
-
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+
+Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
 
 <img align="right" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
