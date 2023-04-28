@@ -56,4 +56,4 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HigorStos/HigorStos/blob/output/github-contribution-grid-snake.svg)
