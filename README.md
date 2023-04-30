@@ -4,7 +4,7 @@ Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixo
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="275" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```javascript
 const express = require('express')
