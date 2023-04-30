@@ -13,12 +13,12 @@ const app = express()
 const computerScience = {name:"Higor Santos", graduation:"Computer Science"}
 const webDeveloper = {name:"Higor Santos", stack:"Full-Stack Web Developer"}
 
-app.get('/', (req, res) =>{
-  return res.send(computerScience)
-  return res.send(webDeveloper)
-}),
+app.get('/', (req, res) => {
+  const higor = { computerScience, webDeveloper }
+  return res.send(higor)
+})
 
-app.listen(3000, () =>{
+app.listen(3000, () => {
   console.log("Initing code...")
 })
 ```
