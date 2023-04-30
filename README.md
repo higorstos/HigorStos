@@ -33,8 +33,8 @@ app.listen(3000, () => {
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/java-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/csharp-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/php-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/html5-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/css3-original.svg" width="50" height="40" align="center"/>
+  /*<img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/html5-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/css3-original.svg" width="50" height="40" align="center"/>*/
 
 </div><br>
 
