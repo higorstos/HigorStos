@@ -1,10 +1,10 @@
 ### Olá! Me chamo Higor! 👋
 
-Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
+Estudante de Ciência da Computação e Desenvolvedor Web Full-Stack, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```javascript
 const express = require('express')
@@ -14,6 +14,7 @@ const computerScience = {name:"Higor Santos", graduation:"Computer Science"}
 const webDeveloper = {name:"Higor Santos", stack:"Full-Stack Web Developer"}
 
 app.get('/', (req, res) =>{
+  return res.send(computerScience)
   return res.send(webDeveloper)
 }),
 
