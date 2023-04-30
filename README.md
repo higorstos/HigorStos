@@ -6,11 +6,14 @@ Desenvolvedor Web Full-Stack e estudante de Ciência da Computação, sou apaixo
 
 <img align="right" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-```javascript
+```
+
+javascript
 const express = require('express')
 const app = express()
 
-const webDeveloper = {name:"Higor Santos", stack:"Full-Stack-Developer"}
+const computerScience = {name:"Higor Santos", graduation:"Computer Science"}
+const webDeveloper = {name:"Higor Santos", stack:"Full-Stack Web Developer"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
