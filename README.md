@@ -4,7 +4,7 @@ Estudante de Ciência da Computação e Desenvolvedor Web Full-Stack, sou apaixo
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" width="325" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```javascript
 const express = require('express')
@@ -14,9 +14,9 @@ const computerScience = {name:"Higor Santos", graduation:"Computer Science"}
 const webDeveloper = {stack:"Full-Stack Web Developer"}
 
 app.get('/', (req, res) => {
-  const Higor = { computerScience, webDeveloper }
-  return res.send(Higor)
-}),
+  const higor = { computerScience, webDeveloper }
+  return res.send(higor)
+})
 
 app.listen(3000, () => {
   console.log("Initing code...")
