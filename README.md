@@ -1,4 +1,4 @@
-### Olá, me chamo Higor! 👋
+### Olá! Me chamo Higor! 👋
 
 Estudante de Ciência da Computação e Desenvolvedor Web, sou apaixonado por tecnologia e sempre busco transformar sonhos em realidade através da programação. 
 
