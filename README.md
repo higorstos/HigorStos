@@ -11,7 +11,7 @@ const express = require('express')
 const app = express()
 
 const computerScience = {name:"Higor Santos", graduation:"Computer Science"}
-const webDeveloper = {stack:"Full-Stack Web Developer"}
+const webDeveloper = {stack:"Web Developer"}
 
 app.get('/', (req, res) => {
   const higor = { computerScience, webDeveloper }
