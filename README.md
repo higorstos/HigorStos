@@ -43,7 +43,7 @@ app.listen(3000, () => {
   <img height='165em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
 </a>
 
-## **Redes Sociais:**
+## **Contato:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
