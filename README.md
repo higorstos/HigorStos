@@ -10,8 +10,8 @@ Estudante de Ciência da Computação e Desenvolvedor Web, sou apaixonado por te
 const express = require('express')
 const app = express()
 
-const computerScience = {graduation:"Computer Science"}
-const webDeveloper = {stack:"Web Developer"}
+const computerScience = { graduation: "Computer Science" }
+const webDeveloper = { stack: "Web Developer" }
 
 app.get('/', (req, res) => {
   const higor = { computerScience, webDeveloper }
