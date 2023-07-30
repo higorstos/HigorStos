@@ -27,15 +27,12 @@ app.listen(3000, () => {
 
 <div style="display: inline_block"><br>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/javascript-original.svg" width="50" height="40" align="center"/>
-   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/html5-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/java-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/html5-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/css3-original.svg" width="50" height="40" align="center"/>
   <!-- <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/angularjs-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/> -->
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/java-original.svg" width="50" height="40" align="center"/>
-  <!-- <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/csharp-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/php-original.svg" width="50" height="40" align="center"/> -->
-
 </div><br>
 
 <a href="https://github.com/HigorStos">
