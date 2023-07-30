@@ -28,9 +28,9 @@ app.listen(3000, () => {
 <div style="display: inline_block"><br>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/JavaScript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Bootstrap.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Java-Dark.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/HTML.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/CSS.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Java-Dark.svg" width="50" height="40" align="center"/>
   <!-- <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/angularjs-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/> -->
