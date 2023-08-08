@@ -29,6 +29,7 @@ app.listen(3000, () => {
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/JavaScript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Bootstrap.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Sass.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/JQuery.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/HTML.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/CSS.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Java-Dark.svg" width="50" height="40" align="center"/>
