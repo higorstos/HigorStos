@@ -45,11 +45,11 @@ app.listen(3000, () => {
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank" width="50" height="40" align="center">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
-  <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram" width="50" height="40" align="center">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="50" height="40" align="center" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
  
   <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
