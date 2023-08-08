@@ -44,13 +44,16 @@ app.listen(3000, () => {
 ## **Redes Sociais:**
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank"></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin" width="50" height="40" align="center">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank">
+  </a> 
 
-  <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" target="_blank"></a>
+  <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram" width="50" height="40" align="center">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" target="_blank">
+  </a>
  
-   <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
+  <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+  </a>
 </p>
 <br>
