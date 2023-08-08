@@ -4,7 +4,7 @@ Estudante de Ciência da Computação e Desenvolvedor Web, sou apaixonado por co
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="325" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```javascript
 const express = require('express')
@@ -45,10 +45,10 @@ app.listen(3000, () => {
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank"></a> 
 
   <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" target="_blank"></a>
  
    <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
