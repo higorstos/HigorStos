@@ -1,6 +1,6 @@
 ### Olá! Me chamo Higor! 👋
 
-Estudante de Ciência da Computação e Desenvolvedor Web, sou apaixonado por conectar ideias criativas com tecnologia. 
+Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado por conectar ideias criativas com tecnologia. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
