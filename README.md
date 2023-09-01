@@ -28,14 +28,7 @@ app.listen(3000, () => {
 ## **Linguagens e Frameworks:**  
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/JavaScript.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Bootstrap.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Sass.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Gulp.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/JQuery.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/HTML.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/CSS.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/HigorStos/HigorStos/blob/main/GitHubAuxiliaryFiles/Java-Dark.svg" width="50" height="40" align="center"/>
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,bootstrap,sass,gulp,jquery,html,css,java)](https://skillicons.dev)
 </div><br>
 
 <a href="https://github.com/HigorStos">
