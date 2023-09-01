@@ -28,7 +28,7 @@ app.listen(3000, () => {
 ## **Linguagens e Frameworks:**  
 
 <div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,bootstrap,sass,gulp,jquery,html,css,java)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,sass,gulp,jquery,html,css,java">
 </div><br>
 
 <a href="https://github.com/HigorStos">
