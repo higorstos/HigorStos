@@ -28,7 +28,8 @@ app.listen(3000, () => {
 ## **Linguagens e Frameworks:**  
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,bootstrap,sass,gulp,jquery,html,css,java">
+<!--   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,bootstrap,sass,gulp,jquery,html,css,java"> -->
+  <img src="https://skillicons.dev/icons?i=ts,js,bootstrap,sass,gulp,jquery,html,css,java,vue">
 </div><br>
 
 <a href="https://github.com/HigorStos">
