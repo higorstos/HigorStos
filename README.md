@@ -1,6 +1,6 @@
 ### Olá! Me chamo Higor! 👋
 
-Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado por conectar ideias criativas com tecnologia.
+Desenvolvedor Front-End e estudante de Ciência da Computação, sou apaixonado por conectar ideias criativas com tecnologia.
 <br><br>
 "Obsession is going to beat talent every time."
 
