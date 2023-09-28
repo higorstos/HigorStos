@@ -58,8 +58,6 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
   </a>
 </p>
-    
-<br>
 
 <a href="https://github.com/HigorStos">
   <img height='165em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
