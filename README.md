@@ -1,7 +1,7 @@
 ### Olá! Me chamo Higor! 👋
 
 Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado por conectar ideias criativas com tecnologia.
-<br><br>
+<br/><br/>
 "Obsession is going to beat talent every time."
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
@@ -41,7 +41,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Freelancer**](https://www.higorstos.com/) • Full-time \
 Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+<br/><br/>
 
 ## **Redes Sociais:**
 
