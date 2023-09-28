@@ -8,7 +8,7 @@ Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado 
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-```
+```typescript
 const express = require('express')
 const app = express()
 
