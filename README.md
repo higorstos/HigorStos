@@ -38,10 +38,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFtmg-VntWVnQ/company-logo_100_100/0/1535664718065?e=1703721600&v=beta&t=tdhHI_Aau6Nsjd_1BhrAHxwyxxpIpVvulO65MZePmgw"/>](https://www.higorstos.com/)
 
 **Desenvolvedor Front-End** \
-[**Freelancer**](https://www.higorstos.com/) • Full-time \
+[**Freelancer**](https://www.higorstos.com/) • Self-employed \
 Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)-->
+Projetos em destaque: [upload.ai](https://github.com/HigorStos/react_upload-ai), [CineX](https://github.com/HigorStos/java_cinex)
 
 ## Redes Sociais:
 
