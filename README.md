@@ -8,7 +8,7 @@ Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado 
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-```javascript
+```
 const express = require('express')
 const app = express()
 
@@ -25,7 +25,7 @@ app.listen(3000, () => {
 })
 ```
 
-## **Linguagens e Frameworks:**  
+## Linguagens e Frameworks:
 
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,bootstrap,gulp,html,css,tailwind,vue,java">
@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)-->
 
-## **Redes Sociais:**
+## Redes Sociais:
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
