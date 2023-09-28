@@ -29,7 +29,7 @@ app.listen(3000, () => {
 
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,bootstrap,gulp,html,css,tailwind,vue,java">
-</div><br>
+</div>
 
 ### Experiência de trabalho
 
@@ -42,11 +42,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
-
-<a href="https://github.com/HigorStos">
-  <img height='165em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height='165em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
-</a>
 
 ## **Redes Sociais:**
 
@@ -63,4 +58,10 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
   </a>
 </p>
+    
 <br>
+
+<a href="https://github.com/HigorStos">
+  <img height='165em' src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height='165em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&langs_count=16&theme=dracula">
+</a>
