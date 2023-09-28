@@ -29,7 +29,7 @@ app.listen(3000, () => {
 
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,bootstrap,gulp,html,css,tailwind,vue,java">
-</div><br/>
+</div>
 
 ## Experiência de trabalho
 
