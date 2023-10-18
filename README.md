@@ -48,10 +48,6 @@ Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-
-  <a target="_blank" href="https://www.instagram.com/higorkz7/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
  
   <a target="_blank" href="mailto:higor.stos@outlook.com" alt="Microsoft Outlook">
