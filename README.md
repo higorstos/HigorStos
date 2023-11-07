@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Front-End** \
 [**Freelancer**](https://www.higorstos.com/) • Self-employed \
-Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
+Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
 <!--Projetos em destaque: [upload.ai](https://github.com/HigorStos/react_upload-ai), [CineX](https://github.com/HigorStos/java_cinex)-->
 <br />
 
