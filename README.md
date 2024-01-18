@@ -35,7 +35,7 @@ app.listen(3000, () => {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="64px" width="auto" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
+[<img align="left" height="72px" width="auto" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 **Desenvolvedor Front-End** \
 [**Estagiário**](https://modalgr.com.br/) • Processo de Formação \
 Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
