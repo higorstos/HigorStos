@@ -39,13 +39,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Front-End** \
 [**Estagiário**](https://modalgr.com.br/) • Processo de Formação \
 Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
-<!--Projetos em destaque: [upload.ai](https://github.com/HigorStos/react_upload-ai), [CineX](https://github.com/HigorStos/java_cinex)-->
+<!--Projetos em destaque: [NOME](link), [NOME](link)-->
 <br />
 
 ## Redes Sociais:
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
  
