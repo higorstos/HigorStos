@@ -38,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="72px" width="auto" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 **Desenvolvedor Front-End** \
 [**Estagiário**](https://modalgr.com.br/) • Processo de Formação \
-Linguagens & Tecnologias: `ReactJS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
+Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
 <!--Projetos em destaque: [upload.ai](https://github.com/HigorStos/react_upload-ai), [CineX](https://github.com/HigorStos/java_cinex)-->
 <br />
 
