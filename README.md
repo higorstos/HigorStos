@@ -28,7 +28,7 @@ app.listen(3000, () => {
 ## Linguagens e Frameworks:
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,bootstrap,tailwind,html,css">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,html,css">
 </div>
 
 ## Experiência de trabalho
