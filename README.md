@@ -9,20 +9,14 @@ Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```typescript
-const express = require('express')
-const app = express()
+const frontEndDeveloper = {stack: "Front-End Developer"};
+const computerScience = {graduation: "Computer Science"};
 
-const computerScience = {graduation: "Computer Science"}
-const frontEndDeveloper = {stack: "Front-End Developer"}
+useEffect(() => {
+  const higor = {frontEndDeveloper, computerScience};
 
-app.get('/', (req, res) => {
-  const higor = {computerScience, frontEndDeveloper}
-  return res.send(higor)
-})
-
-app.listen(3000, () => {
-  console.log("Initing code...")
-})
+  return higor;
+}, [])
 ```
 
 ## Linguagens e Frameworks:
