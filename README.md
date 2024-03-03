@@ -6,7 +6,7 @@ Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 ```typescript
 const frontEndDeveloper = {stack: "Front-End Developer"};
