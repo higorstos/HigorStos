@@ -29,7 +29,7 @@ useEffect(() => {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="72px" width="auto" alt="Warpnet" src="https://modalgr.io/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.io/)
+[<img align="left" height="72px" width="auto" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.io/)
 **Desenvolvedor Front-End** \
 [**Estagiário**](https://modalgr.io/) • Processo de Formação \
 Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
