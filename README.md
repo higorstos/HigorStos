@@ -22,7 +22,7 @@ useEffect(() => {
 ## Linguagens e Frameworks:
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,html,css">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,tailwind,html,css">
 </div>
 
 ## Experiência de trabalho
