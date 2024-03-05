@@ -38,7 +38,7 @@ Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
 
 ## Redes Sociais:
 
-<p align="left">
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/higorstos/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
