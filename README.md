@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bae9&height=120&section=header"/>
+
 ### Olá! Me chamo Higor! 👋
 
 Estudante de Ciência da Computação e Desenvolvedor Front-End, sou apaixonado por conectar ideias criativas com tecnologia.
@@ -53,3 +55,5 @@ Linguagens & Tecnologias: `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HigorStos&show_icons=true&count_private=true&hide_border=true&title_color=00bae9&icon_color=00bae9&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorStos&layout=compact&hide_border=true&title_color=00bae9&text_color=00bae9&bg_color=0d1117" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bae9&height=120&section=footer"/>
